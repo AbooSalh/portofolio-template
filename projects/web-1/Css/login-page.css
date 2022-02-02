@@ -1,0 +1,76 @@
+.user-info-div{
+    background-color: rgba(240, 248, 255, 0.233) ;
+    width: 20%;
+    margin: auto;
+    border: 10px;
+    border-color: cornflowerblue ;
+    border-style: solid;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+
+}
+.choosing-div{
+    background-color: rgba(240, 248, 255, 0.233) ;
+    width: 20%;
+    margin: auto;
+    border: 10px;
+    border-color: cornflowerblue ;
+    border-style: solid;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.your-os-head{
+    color: rgb(243, 243, 243);
+    
+}
+.os-div{
+    background-color: rgba(240, 248, 255, 0.233) ;
+    width: 10%;
+    margin: auto;
+    border: 10px;
+    border-color: cornflowerblue ;
+    border-style: solid;
+    border-radius: 30px;
+
+}
+
+
+body{
+    background-size: cover;
+    background-color: #35363A; 
+    
+}
+.buttons{
+    
+    width: 4%;
+    margin: auto;
+    border: #35363A;
+
+}
+hr{
+    width: 20%;
+    margin: auto;
+
+}
+.webhead-title{
+
+    text-decoration: none;
+    text-align: center;
+    
+}
+.webhead-div{
+    background-color: rgba(240, 248, 255, 0.5);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 10px;
+    border-color: cornflowerblue ;
+    border-style: solid;
+}
+
+
+    
+
+
